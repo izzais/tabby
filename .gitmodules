@@ -1,0 +1,4 @@
+[submodule "tabby-android"]
+	path = tabby-android
+	url = git@github.com:izzais/tabby-android.git
+	branch = master
